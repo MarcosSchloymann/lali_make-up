@@ -2047,7 +2047,7 @@
 	header.major {
 		padding: 0.1em 0;
 		text-align: center;
-		background-color: rgb(236, 219, 163);
+		background-color:#e89980;
 	}
 
 		header.major h2 {
@@ -3275,7 +3275,7 @@
 			}
 
 		#footer .copyright {
-			color: #999;
+			color: rgb(65, 65, 65);
 			font-size: 0.9em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
