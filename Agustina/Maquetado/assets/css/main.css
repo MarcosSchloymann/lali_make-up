@@ -105,11 +105,11 @@
 	}
 
 	body {
-		background: #f5f5f5;
+		background: black;
 	}
 
 	body, input, select, textarea {
-		color: #777;
+		color: rgb(67, 67, 67);
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -132,7 +132,7 @@
 		}
 
 	strong, b {
-		color: #646464;
+		color: rgb(67, 67, 67);
 		font-weight: 400;
 	}
 
@@ -145,7 +145,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #646464;
+		color: rgb(67, 67, 67);
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -2047,7 +2047,7 @@
 	header.major {
 		padding: 0.1em 0;
 		text-align: center;
-		background-color:#e89980;
+		background-color:rgb(194, 191, 191);
 	}
 
 		header.major h2 {
@@ -2251,7 +2251,7 @@
 /* Box */
 
 	.box {
-		background: #fff;
+		background: rgb(194, 191, 191);
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
